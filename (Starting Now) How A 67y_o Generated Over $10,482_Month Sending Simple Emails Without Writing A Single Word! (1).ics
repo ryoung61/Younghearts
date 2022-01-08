@@ -1,0 +1,102 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:-//LogMeIn//GoToWebinar//EN
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:America/New_York
+LAST-MODIFIED:20201011T015911Z
+TZURL:http://tzurl.org/zoneinfo-outlook/America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:DAYLIGHT
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20220106T141249Z
+DTSTART;TZID=America/New_York:20220106T110000
+DTEND;TZID=America/New_York:20220106T130000
+SUMMARY:GoToWebinar - (Starting Now) How A 67y/o Generated Over $10\,482/
+ Month Sending Simple Emails Without Writing A Single Word!
+LOCATION:GoToWebinar - See conference call information below
+UID:-1965032107@logmein.com
+ORGANIZER:hello@thriivetank.com
+DESCRIPTION:1. Click and join at the specified time and date:\nhttps://gl
+ obal.gotowebinar.com/join/8525588290565793549/324507625\nNote: This link
+  should not be shared with others\; it is unique to you.\n\n2. To use yo
+ ur computer's audio:\n\nWhen the Webinar begins\, you will be connected 
+ to audio using your computer's microphone and speakers (VoIP). A headset
+  is recommended.\n\n\nIn This Webinar\, You'll Discover...\n\nHow You Ca
+ n Ethically "Clone" Shawn's Business In 10 Minutes Or Less... (Many Have
+  Already Done So!)\n\nJoin Shawn As He Reveals 3 Simple Secrets To Creat
+ ing Your Dream Lifestyle Business...\n\nAnd How It's EASIER Than You Thi
+ nk! :-)\n
+X-ALT-DESC;FMTTYPE=text/html:<HTML><HEAD><TITLE></TITLE><BODY><FONT SIZE=
+ 2><b>1. Click and join at the specified time and date:</b></FONT><BR><FO
+ NT SIZE=2>https://global.gotowebinar.com/join/8525588290565793549/324507
+ 625</FONT><BR><FONT SIZE=2>Note: This link should not be shared with oth
+ ers\; it is unique to you.</FONT><BR><BR><FONT SIZE=2><FONT SIZE=2><b>2.
+  To use your computer's audio:</b></FONT><BR><BR><FONT SIZE=2>When the W
+ ebinar begins\, you will be connected to audio using your computer's mic
+ rophone and speakers (VoIP). A headset is recommended.</FONT><BR><BR></B
+ ODY></HTML></FONT><BR><FONT SIZE=2>In This Webinar\, You'll Discover...\
+ n\nHow You Can Ethically "Clone" Shawn's Business In 10 Minutes Or Less.
+ .. (Many Have Already Done So!)\n\nJoin Shawn As He Reveals 3 Simple Sec
+ rets To Creating Your Dream Lifestyle Business...\n\nAnd How It's EASIER
+  Than You Think! :-)</FONT><BR></BODY></HTML>
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220106T141249Z
+DTSTART;TZID=America/New_York:20220107T190000
+DTEND;TZID=America/New_York:20220107T210000
+SUMMARY:GoToWebinar - (Starting Now) How A 67y/o Generated Over $10\,482/
+ Month Sending Simple Emails Without Writing A Single Word!
+LOCATION:GoToWebinar - See conference call information below
+UID:-417366699@logmein.com
+ORGANIZER:hello@thriivetank.com
+DESCRIPTION:1. Click and join at the specified time and date:\nhttps://gl
+ obal.gotowebinar.com/join/8525588290565793549/324507625\nNote: This link
+  should not be shared with others\; it is unique to you.\n\n2. To use yo
+ ur computer's audio:\n\nWhen the Webinar begins\, you will be connected 
+ to audio using your computer's microphone and speakers (VoIP). A headset
+  is recommended.\n\n\nIn This Webinar\, You'll Discover...\n\nHow You Ca
+ n Ethically "Clone" Shawn's Business In 10 Minutes Or Less... (Many Have
+  Already Done So!)\n\nJoin Shawn As He Reveals 3 Simple Secrets To Creat
+ ing Your Dream Lifestyle Business...\n\nAnd How It's EASIER Than You Thi
+ nk! :-)\n
+X-ALT-DESC;FMTTYPE=text/html:<HTML><HEAD><TITLE></TITLE><BODY><FONT SIZE=
+ 2><b>1. Click and join at the specified time and date:</b></FONT><BR><FO
+ NT SIZE=2>https://global.gotowebinar.com/join/8525588290565793549/324507
+ 625</FONT><BR><FONT SIZE=2>Note: This link should not be shared with oth
+ ers\; it is unique to you.</FONT><BR><BR><FONT SIZE=2><FONT SIZE=2><b>2.
+  To use your computer's audio:</b></FONT><BR><BR><FONT SIZE=2>When the W
+ ebinar begins\, you will be connected to audio using your computer's mic
+ rophone and speakers (VoIP). A headset is recommended.</FONT><BR><BR></B
+ ODY></HTML></FONT><BR><FONT SIZE=2>In This Webinar\, You'll Discover...\
+ n\nHow You Can Ethically "Clone" Shawn's Business In 10 Minutes Or Less.
+ .. (Many Have Already Done So!)\n\nJoin Shawn As He Reveals 3 Simple Sec
+ rets To Creating Your Dream Lifestyle Business...\n\nAnd How It's EASIER
+  Than You Think! :-)</FONT><BR></BODY></HTML>
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
